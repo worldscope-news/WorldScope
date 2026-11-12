@@ -1,0 +1,21 @@
+ {
+  "name": "worldscope",
+  "version": "1.0.0",
+  "description": "WorldScope Global News Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "news",
+    "worldscope",
+    "international-news"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
